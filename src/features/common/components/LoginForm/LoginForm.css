@@ -1,0 +1,9 @@
+.LoginForm {
+ margin: auto;
+ padding: auto;
+ max-height: 450px;
+}
+
+label{
+    color: #0C6635;
+}

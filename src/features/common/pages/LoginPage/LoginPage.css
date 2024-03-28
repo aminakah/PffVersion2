@@ -1,0 +1,25 @@
+
+.form-section{
+  
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+h4, h5, p{
+    color: #0C6635 !important;
+}
+
+h4{
+    font-size: 26px !important;
+    font-weight: 700 !important;
+}
+
+.link{
+    text-decoration: none !important;
+    color: #0C6635;
+    font-size: 18px;
+    font-weight: 600;
+}
+.mar{
+    margin-right: 20px;
+}
+
+

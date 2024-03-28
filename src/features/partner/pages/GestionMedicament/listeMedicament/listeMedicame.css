@@ -1,0 +1,13 @@
+.titre{
+    color:#0C6635;
+    text-decoration:underline;
+    text-align: center;
+
+
+}
+th{
+    color: #0C6635;
+}
+.majuscule {
+    text-transform: uppercase;
+}

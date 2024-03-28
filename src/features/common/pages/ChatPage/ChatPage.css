@@ -1,0 +1,28 @@
+.contact-list{
+  min-height: 95vh;
+  /* background-color: #f7e8e8; */
+}
+
+.chat-item{
+  border: 1px solid green;
+  border-radius: 7px;
+
+}
+
+.chat-input{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  background-color: #FFFFFF;
+}
+
+.input-text {
+  background-color: #F4F4F4;
+  border-radius: 7px;
+}
+.chat-body {
+  background-color: #010101 !important;
+ 
+}
+.chat-section {
+  background-color: #f0eded !important;
+ 
+}

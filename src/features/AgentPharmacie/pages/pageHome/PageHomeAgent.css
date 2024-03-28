@@ -1,0 +1,28 @@
+.PartnerHomePage {
+    background-color: #F4F4F4 !important;
+ }
+ 
+ .card-info{
+     height: 140px !important;
+     text-align: center !important;
+     color: #FFFFFF !important;
+     
+ }
+ 
+ .card h1, .title{
+     font-size: 22px;
+     font-weight: 700;
+ }
+ .card-header{
+     font-size: 16px;
+     font-weight: 700;
+ }
+ .nb{
+     font-size: 36px;
+     color: #FFFFFF !important;
+     font-weight: 900;
+ }
+ 
+ .commandes{
+     font-size: 12px !important;
+ }

@@ -1,0 +1,17 @@
+.carousel-controls {
+    position: absolute;
+    bottom: 40px;
+    right: 0;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 520px;
+    border-radius: 20px;
+}
+.input-container {
+    margin-left: 10px; /* Ajoutez un espacement entre le select et l'input */
+}
+.hero{
+    background-color: rgb(230, 231, 231) ;
+    
+}

@@ -1,0 +1,11 @@
+.sug{
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #fff;
+    /* z-index: 1800; */
+    width: 210%;
+    height: auto !important;
+}
+.color{
+    color: #0C6635;
+}

@@ -1,0 +1,27 @@
+.NavBarTop {
+
+}
+.nav-item{
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    color: #0C6635;
+    padding: 5px 20px;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+
+
+.link-active{
+    background-color: #0c663521 !important;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 5px 20px;
+    cursor: pointer;
+    transition: all .5s;
+    color: #0C6635 !important;
+    border: none;
+
+}

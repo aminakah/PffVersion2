@@ -1,0 +1,53 @@
+.PharmacieRecherche{
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #582222;
+    z-index: 1800;
+    width: 16%;
+}
+.SearchBar{
+    /* position: relative; */
+    margin-left: 144px;
+    left: 55;
+    
+}
+.input{
+    width: 50% !important;
+}
+.rechMedi{
+    justify-content: center!important;
+}
+.ErreurRechercher{
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #fff;
+    z-index: 1800;
+    width: 100%;
+    color: red!important;
+}
+.searchResults{
+    text-decoration: none!important;
+    color: rgb(3, 62, 30);
+    list-style: none;
+}
+.iconSearch{
+    width: 10px;
+    height: 10px;
+}
+.rech{
+    justify-content: center!important;
+}
+
+.search-btn{
+    border-bottom-right-radius: 7px !important;
+    border-top-right-radius: 7px !important;
+    border-bottom-left-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+    
+}
+
+.search-input{
+    border-bottom-right-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+   
+}

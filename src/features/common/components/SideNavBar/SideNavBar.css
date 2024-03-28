@@ -1,0 +1,27 @@
+.SideNavBar {
+  position: fixed;
+  width: 230px;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  background-color: #FFFFFF;
+  position: relative;
+}
+
+.BottomSection{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 20px;
+}
+
+.link{
+    color: black !important;
+    text-decoration: none !important;
+    font-size: 18px !important;
+}
+
+li:hover{
+    transition: all .5s;
+    background-color: #F4F4F4;
+    cursor: pointer;
+}

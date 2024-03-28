@@ -1,0 +1,28 @@
+html, body{
+    background-color: #F4F4F4 !important;
+    overflow-x: hidden;
+
+
+}
+
+.body{
+    width: calc(100vw - 260px);
+    background-color: #FFFFFF;
+    border-radius: 7px;
+}
+
+.avatar{
+    display: flex;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #F4F4F4;
+    color: rgb(2, 141, 64);
+    text-transform: uppercase;
+    font-size: 36px;
+    font-weight: 700;
+    padding: auto;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
